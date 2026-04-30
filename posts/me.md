@@ -1,5 +1,4 @@
 ---
-id: 1699606c0d7c4e47b3a4431556753051
 title: "一个游戏开发者的自我介绍"
 status: 1
 created_at: 2023-06-08T22:22:30+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [65]
 description: "职业道路上的新旅程：一个游戏开发者的自我介绍"
 word_count: 789
-identity: me
 ---
 
 

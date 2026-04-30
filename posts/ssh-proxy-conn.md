@@ -1,5 +1,4 @@
 ---
-id: e5ef6d6aed1a42bdb8f82da6a164d550
 title: "将本地服务通过 SSH 代理给外部访问"
 status: 1
 created_at: 2023-03-09T16:08:49+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [43, 44, 45]
 description: "如何使用 ssh 将本地服务代理给外部访问并保持 SSH 会话的连接性"
 word_count: 660
-identity: ssh-proxy-conn
 ---
 
 如何使用 ssh 将本地服务代理给外部访问并保持 SSH 会话的连接性

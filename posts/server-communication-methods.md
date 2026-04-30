@@ -1,5 +1,4 @@
 ---
-id: 9bd7ca48dab7420aae1889ec0c98b228
 title: "探索服务端通信技术：短轮询、WebSocket、SSE 与长轮询的深度比较"
 status: 1
 created_at: 2023-11-19T13:51:46+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [94, 95, 96, 97, 98, 99]
 description: "在现代 Web 应用中，服务端与客户端之间的高效通信至关重要。本文探讨了四种主流的服务端通信方法：短轮询、WebSocket、SSE（Server-Sent Events）和长轮询，分析它们的工作原理、适用场景及优缺点。"
 word_count: 2254
-identity: server-communication-methods
 ---
 
 

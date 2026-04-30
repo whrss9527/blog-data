@@ -1,5 +1,4 @@
 ---
-id: ca2dec07b27e473f8b39dae5b1cdf8b3
 title: "os.signal golang 中的信号处理"
 status: 1
 created_at: 2023-07-29T05:56:55+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [61, 76, 77]
 description: "在程序进行重启等操作时，我们需要让程序完成一些重要的任务之后，优雅地退出，Golang为我们提供了signal包，实现信号处理机制，允许Go 程序与传入的信号进行交互。"
 word_count: 1142
-identity: go-signal
 ---
 
 在程序进行重启等操作时，我们需要让程序完成一些重要的任务之后，优雅地退出，Golang为我们提供了signal包，实现信号处理机制，允许Go 程序与传入的信号进行交互。

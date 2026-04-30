@@ -1,5 +1,4 @@
 ---
-id: 7e1770e6fff54496a2fe797607875ba8
 title: "gorm 中 MySQL 错误码映射与主键冲突错误处理"
 status: 1
 created_at: 2024-03-27T11:43:05+08:00
@@ -10,7 +9,6 @@ tag_ids: [61, 62]
 description: "在使用 gorm 处理数据库操作时，尤其是针对 MySQL，有时我们会遇到 golang 标准库`errors.Is`函数无法直接识别特定的 gorm 错误类型的情况，如主键冲突错误。尽管 gorm 提供了`gorm.ErrDuplicatedKey`来表示此类错误，但在原始错误返回中并不能直接通过`errors.Is(err, gorm.ErrDuplicatedKey)`来进行判断。本文深入探究 gorm.io/driver/mysql 包中的错误转换机制，揭示了如何借助`error_translator`模块将 MySQL 的错误码映射为 gorm 的错误类型。
 "
 word_count: 1565
-identity: gorm-mysql-error-handling-duplicate-key-translations
 ---
 
 

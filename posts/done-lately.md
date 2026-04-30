@@ -1,5 +1,4 @@
 ---
-id: 9a6c96159c6949d7accc24f296287ad4
 title: "最近在做的事：GitHub Action | GPT Plus | whisper | V2EX | GPT API | PMP"
 status: 1
 created_at: 2023-06-25T15:49:29+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [63, 66, 67, 68, 69, 70]
 description: "运动数据使用GitHub Action自动更新｜ 开通体验了一下GPT Plus ｜ 买了一支录音笔，全天候录音，使用 whisper 录音转文字 ｜终于注册了 V2EX ｜GPT API续费问题曲线救国｜报名了PMP的培训班和考试"
 word_count: 729
-identity: done-lately
 ---
 
 #### 运动数据使用GitHub Action自动更新

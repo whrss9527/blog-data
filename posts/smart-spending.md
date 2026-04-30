@@ -1,5 +1,4 @@
 ---
-id: d2091d3cc5634ec0ae44830c0c719589
 title: "“该省省，该花花”"
 status: 1
 created_at: 2025-01-31T19:48:07+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [104]
 description: "春节假期，我终于完成了两件大事：见了未来的岳父岳母，还带奶奶游览了北京。忙里偷闲，我决定总结一下这几天的经历，顺便分享一些“花钱”与“省钱”的小感悟。"
 word_count: 1765
-identity: smart-spending
 ---
 
 

@@ -1,5 +1,4 @@
 ---
-id: d1ec0caa336844109cd4701898be5f99
 title: "【Gorm】Save 方法更新踩坑记录"
 status: 1
 created_at: 2023-06-03T16:53:55+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [61, 62]
 description: "在我最近使用Gorm进行字段更新的过程中，我遇到了一个问题。当我尝试更新status字段时，即使该字段的值没有发生变化，Gorm还是提示我“Duplicate entry 'xxxx' for key 'PRIMARY'”。"
 word_count: 2476
-identity: gorm-save-issue
 ---
 
 在我最近使用Gorm进行字段更新的过程中，我遇到了一个问题。当我尝试更新status字段时，即使该字段的值没有发生变化，Gorm还是提示我“Duplicate entry 'xxxx' for key 'PRIMARY'”。

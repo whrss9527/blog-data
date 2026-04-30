@@ -1,5 +1,4 @@
 ---
-id: 114ab4db102242b6b8dcdd583cdca71d
 title: "如何在 Go 中实现程序的优雅退出，go-kratos 源码解析"
 status: 1
 created_at: 2023-07-29T05:58:45+08:00
@@ -10,7 +9,6 @@ tag_ids: [61, 78, 79]
 description: "使用kratos这个框架有近一年了，最近了解了一下kratos关于程序优雅退出的具体实现。
 "
 word_count: 2118
-identity: go-grace-stop
 ---
 
 使用kratos这个框架有近一年了，最近了解了一下kratos关于程序优雅退出的具体实现。

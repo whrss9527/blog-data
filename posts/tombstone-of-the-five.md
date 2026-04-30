@@ -1,5 +1,4 @@
 ---
-id: bf93ece26fdd4df183857d73f815ed03
 title: "五人墓碑记"
 status: 1
 created_at: 2022-11-28T10:02:25+08:00
@@ -10,7 +9,6 @@ tag_ids: [28]
 description: "五人墓碑记 明 张溥　
 卒以吾辈之发愤一击，不敢复有株治。"
 word_count: 821
-identity: tombstone-of-the-five
 ---
 
 

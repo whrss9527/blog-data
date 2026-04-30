@@ -1,5 +1,4 @@
 ---
-id: a67b221996904757b642d504efa87bfb
 title: "Interesting & Useful 的开源项目"
 status: 1
 created_at: 2023-02-28T15:53:37+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [37, 38]
 description: "分享一些平时遇到的有趣的开源项目"
 word_count: 765
-identity: open-source-projects
 ---
 
 | 地址                                                    | 描述                                                                                                                                                    |

@@ -1,5 +1,4 @@
 ---
-id: 7e1770e6fff54496a2fe777607875ba8
 title: "一致性事务：从 2PC 到 Outbox pattern"
 status: 1
 created_at: 2025-11-28T23:08:22+08:00
@@ -21,7 +20,6 @@ description: "如果你做过一点微服务开发，大概率都遇到过这种
 
 这就是经典的分布式事务一致性问题。  "
 word_count: 5885
-identity: transaction-consistency-patterns-2pc-outbox
 ---
 
 

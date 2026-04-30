@@ -1,5 +1,4 @@
 ---
-id: 4578237cc8d441df9b2aa777f35bcc26
 title: "优化你的RSS订阅：一次全面改进的实践"
 status: 1
 created_at: 2023-06-26T20:25:21+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [71, 72]
 description: "先前，我的 RSS 订阅功能过于简化，只提供了几个基本字段，而且不展示全文。我决定对订阅功能做一次全面的改进。"
 word_count: 1958
-identity: feed-sub
 ---
 
 

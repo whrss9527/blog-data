@@ -1,5 +1,4 @@
 ---
-id: e7f04702c0db4c3c93f9d5e1aa1895a3
 title: "体验 New Bing：一个比 ChatGPT 更强大、更幽默、更有用的搜索引擎聊天机器人"
 status: 1
 created_at: 2023-03-02T15:43:16+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [39, 40, 41, 42]
 description: "最近在推特上看到很多人在谈论New Bing申请的事情，我也收到了试用通过的邮件。于是我马上打开Edge浏览器体验了一下。"
 word_count: 1073
-identity: newbing-vs-chatgpt
 ---
 
 

@@ -1,5 +1,4 @@
 ---
-id: 3704ba28a4ec4f47a44d0894ce469d43
 title: "聊天记录存储实践"
 status: 1
 created_at: 2023-02-27T13:53:20+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [36]
 description: "公司的某款游戏在1月初接入微软小冰AI聊天功能。为了保存聊天记录并为后续的统计功能做好准备，决定将聊天记录存放在服务端。"
 word_count: 1187
-identity: chat-message-store
 ---
 
 

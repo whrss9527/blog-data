@@ -1,5 +1,4 @@
 ---
-id: 2ebd3586387c4d4e866d94cf1ff2a7b1
 title: "GORM 中 SQL、慢 SQL 打印日志传递 trace ID"
 status: 1
 created_at: 2023-09-25T11:14:27+08:00
@@ -10,7 +9,6 @@ tag_ids: [61, 62, 81, 78]
 description: "GORM 中SQL、慢SQL打印日志传递 trace ID， 重写GORM日志实现，SQL日志、慢日志请求追踪
 "
 word_count: 1298
-identity: gorm-trace-id
 ---
 
 实现 `gorm.io/gorm/logger` 下的函数⬇️

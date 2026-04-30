@@ -1,5 +1,4 @@
 ---
-id: 40a4c64718a640858ac2e8db7ea5b201
 title: "死锁日记：手写 GoLang 上报队列"
 status: 1
 created_at: 2024-05-16T09:16:45+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [102, 103]
 description: "我们团队负责的防沉迷上报服务突然在某一天遭遇了内存溢出（OOM）的情况。通过查看 Prometheus 监控数据，我们发现 Goroutines 的数量在中午十二点之后呈现出线性增长趋势，直至晚上十点 OOM 发生，Goroutines 数量骤降为零。"
 word_count: 5558
-identity: golang-deadlock
 ---
 
 我们团队负责的防沉迷上报服务突然在某一天遭遇了内存溢出（OOM）的情况。通过查看 Prometheus 监控数据，我们发现 Goroutines 的数量在中午十二点之后呈现出线性增长趋势，直至晚上十点 OOM 发生，Goroutines 数量骤降为零。如下图所示：

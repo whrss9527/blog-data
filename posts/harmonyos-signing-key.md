@@ -1,5 +1,4 @@
 ---
-id: 2387a3f3565a4801a6ced0ed761fb95f
 title: "鸿蒙 OS 的签名密钥机制，我终于整明白了！"
 status: 1
 created_at: 2025-07-20T12:47:36+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [106, 107, 108]
 description: "在做移动应用开发时，不管是 Android 还是 iOS，我们都绕不开“签名”这件事。最近我们项目在筹备适配 HarmonyOS NEXT（鸿蒙 Next） 的 SDK，也顺势把鸿蒙的签名机制研究了一遍。这篇文章来分享下。"
 word_count: 2166
-identity: harmonyos-signing-key
 ---
 
 在做移动应用开发时，不管是 Android 还是 iOS，我们都绕不开“签名”这件事。最近我们项目在筹备适配 **HarmonyOS NEXT（鸿蒙 Next）** 的 SDK，也顺势把鸿蒙的签名机制研究了一遍。这篇文章来分享下。

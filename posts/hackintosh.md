@@ -1,5 +1,4 @@
 ---
-id: e8360442afeb45f48aa454ec0a790ac4
 title: "macOS 12 Monterey + Windows11 我的生产力答案"
 status: 1
 created_at: 2022-12-25T21:14:27+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [30, 31]
 description: "大学毕业以后，买了一台乞丐版的13寸的macbook pro（8 + 128 这个配置可能还不如现在的安卓手机），今年年中，我开始把工作用的macbook pro（18款 15寸 16 + 256）往家里带，勉强够用。到了今年下半年，我渐渐感觉，这俩电脑，一个能打的都没有，真顶不住了。"
 word_count: 1571
-identity: hackintosh
 ---
 
 大学毕业后，我买了一台乞丐版的 13 寸 MacBook Pro，这台电脑配置比现在的安卓手机还低。今年年中，我开始把用于工作的 MacBook Pro（18 款 15 寸 16+256）带回家使用，虽然勉强能用，但是我渐渐地发现这两台电脑都不能满足我的需求。

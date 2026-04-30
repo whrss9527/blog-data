@@ -1,5 +1,4 @@
 ---
-id: 846be4a5183543458c46b8a4d891707a
 title: "最新版 Let’s Encrypt 免费证书申请步骤，保姆级教程"
 status: 1
 created_at: 2022-12-02T19:17:50+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [29]
 description: "最近将域名迁到了google domain，就研究了一下Let’s Encrypt的域名证书配置。发现网上找到的教程在官方说明中已经废弃，所以自己写一个流程记录一下。"
 word_count: 2940
-identity: lets-encrypt
 ---
 
 最近将域名迁到了google domain，就研究了一下Let’s Encrypt的域名证书配置。发现网上找到的教程在官方说明中已经废弃，所以自己写一个流程记录一下。

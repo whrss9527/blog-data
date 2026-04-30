@@ -1,5 +1,4 @@
 ---
-id: 84155f4a203746ffac064c751aef58d3
 title: "Golang 中的 EOF 与 read: connection reset by peer 错误深度剖析"
 status: 1
 created_at: 2024-08-07T08:30:33+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [102]
 description: "在 Golang 网络请求中，我们经常会遇到两种常见的错误：`EOF` 和 `read: connection reset by peer`。这两个错误虽然看似相似，但实际上有着本质的区别。这篇文章将深入探讨这两种错误的原因、区别以及如何优雅的处理它们。"
 word_count: 3291
-identity: golang-eof
 ---
 
 ## 引言

@@ -1,5 +1,4 @@
 ---
-id: 1cef59e5fce64b43a69a9e567c0ff06a
 title: "GitHub Action 自动化部署简单尝试"
 status: 1
 created_at: 2023-03-31T18:38:20+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [51, 52, 53]
 description: "之前看到很多大佬的 Blog 是部署在 Github 上面的，但因为自己目前的博客是带后端的，所以就没有考虑。很久之前看到 @yihong 的心跳和跑步，感觉挺不错的，但因为自己没有跑步的习惯，就感觉不是很感冒 ???? 直到最近在听零机一动的时候，又听到了 yihong 的跑步， 我突然想到，我应该也可以把我的游泳 骑车 有氧也像 @yihong 的跑步数据一样上传过来。那么第一件事，我需要了解一下 GitHub Action 的机制，小小地尝试一下。"
 word_count: 1521
-identity: github-action
 ---
 
 

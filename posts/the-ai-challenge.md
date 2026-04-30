@@ -1,5 +1,4 @@
 ---
-id: 9e22ebc1e35745559df3ed608581a632
 title: "惊喜又焦虑，AI 技术的发展"
 status: 1
 created_at: 2023-03-04T15:48:36+08:00
@@ -10,7 +9,6 @@ tag_ids: [41, 40, 42]
 description: "最近，我接触了很多关于AI技术的东西。例如ChatGPT、NewBing、ChatGPT更快的API、stable diffusion、AI语音识别等等。这些技术让我惊喜，也让我感到焦虑。
 "
 word_count: 931
-identity: the-ai-challenge
 ---
 
 

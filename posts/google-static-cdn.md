@@ -1,5 +1,4 @@
 ---
-id: ad3549a301d24fcf8e2e9d24dbadd3bb
 title: "在 Google 设置静态页面 CDN 加速"
 status: 1
 created_at: 2023-02-15T16:52:35+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [34, 29, 35]
 description: "在google设置静态页面 CDN加速"
 word_count: 597
-identity: google-static-cdn
 ---
 
 在google设置静态页面 CDN加速

@@ -1,5 +1,4 @@
 ---
-id: 9d76012ff2884c2da8267eabbda38145
 title: "随想—生活效能"
 status: 1
 created_at: 2022-11-27T15:34:45+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [27]
 description: "效能，效就是结果，能就是取效所做的功。"
 word_count: 846
-identity: effectiveness
 ---
 
 之前我有写过一篇文章，是关于边际效益的思考的，但很不幸，我没有备份，一并被阿里云ban掉了。

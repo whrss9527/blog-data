@@ -1,5 +1,4 @@
 ---
-id: ab88a021bd364e329533359f472699c8
 title: "一个有趣且实用的开源项目，将网页打包成应用"
 status: 1
 created_at: 2023-04-04T16:19:46+08:00
@@ -11,7 +10,6 @@ description: "最近在GitHub上面发现了一个[很有趣的开源应用](htt
 
 底层使用了rust进行开发，支持 Mac、Windows 和 Linux。使用命令将网站直接打包成PC应用。"
 word_count: 831
-identity: pake
 ---
 
 最近在GitHub上面发现了一个[很有趣的开源应用](https://github.com/tw93/Pake)，可以将网页打包成应用：

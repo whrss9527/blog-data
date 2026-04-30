@@ -1,5 +1,4 @@
 ---
-id: fa24be8d123a408eb15ef4317d1c20f0
 title: "CloudFlare Tunnel 免费内网穿透的简明教程"
 status: 1
 created_at: 2024-02-27T13:01:35+08:00
@@ -16,7 +15,6 @@ description: "Tunnel 可以做什么?
 跳过国内服务器备案域名。
 最重要的是——免费。"
 word_count: 2472
-identity: cloudflare-tunnel 
 ---
 
 

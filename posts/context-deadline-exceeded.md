@@ -1,5 +1,4 @@
 ---
-id: 2fcac95b5a104663be4169591a868a5a
 title: "为什么你应该在代码中消除 \"context deadline exceeded\" 错误"
 status: 1
 created_at: 2024-06-14T04:17:32+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [102]
 description: "在 Go 语言中，context 包提供了一种跨 API 和进程边界传递请求作用域值、取消信号以及超时信号的方式。使用 context 可以帮助我们更好地控制 goroutine，避免 goroutine 泄漏等问题。出现 \"context deadline exceeded\" 错误通常是因为在请求上下文中设置了超时时间，但请求在超时时间内未完成。我们应该尽量避免这种错误..."
 word_count: 1134
-identity: context-deadline-exceeded
 ---
 
 

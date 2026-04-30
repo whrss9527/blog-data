@@ -1,5 +1,4 @@
 ---
-id: 654d2705520241b395ef083b14d951c6
 title: "发现优质 Newsletter 和 Blog"
 status: 1
 created_at: 2023-02-05T19:47:18+08:00
@@ -9,7 +8,6 @@ is_top: 0
 tag_ids: [33]
 description: "我平时一直都在发现很多优质的资源，但都没有整理。一直增加，单独一个页面可能开始会有些乱，就先开一篇放在这里。"
 word_count: 1245
-identity: find-newsletter
 ---
 
 我平时一直都在发现很多优质的资源，但都没有整理。一直增加，单独一个页面可能开始会有些乱，就先开一篇放在这里。
