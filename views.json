@@ -34,7 +34,7 @@
   "pic-archive": 6411,
   "planet-scale": 4684,
   "r2-rclone": 6757,
-  "server-communication-methods": 6106,
+  "server-communication-methods": 6107,
   "smart-spending": 3140,
   "soft-routes": 14418,
   "ssh-proxy-conn": 2269,
@@ -42,5 +42,5 @@
   "the-ai-challenge": 2093,
   "tombstone-of-the-five": 1607,
   "transaction-consistency-patterns-2pc-outbox": 1196,
-  "unified-standards-code-management-in-team-development": 4911
+  "unified-standards-code-management-in-team-development": 4912
 }
