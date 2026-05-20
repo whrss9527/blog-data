@@ -16,7 +16,7 @@
   "go-grace-stop": 6896,
   "go-signal": 5671,
   "go-test": 3719,
-  "golang-deadlock": 3732,
+  "golang-deadlock": 3733,
   "golang-eof": 4120,
   "google-static-cdn": 1831,
   "gorm-mysql-error-handling-duplicate-key-translations": 4716,
@@ -41,6 +41,6 @@
   "test-function": 1438,
   "the-ai-challenge": 2122,
   "tombstone-of-the-five": 1631,
-  "transaction-consistency-patterns-2pc-outbox": 1324,
+  "transaction-consistency-patterns-2pc-outbox": 1325,
   "unified-standards-code-management-in-team-development": 4975
 }
