@@ -2,7 +2,7 @@
   "2023-shopping-journey-value-and-regrets": 5326,
   "api-design-openapi\u0026grpc": 5850,
   "chat-message-store": 1978,
-  "clash-auto-triage": 15237,
+  "clash-auto-triage": 15238,
   "cloudflare-tunnel ": 6842,
   "context-deadline-exceeded": 5048,
   "done-lately": 3605,
@@ -41,6 +41,6 @@
   "test-function": 1440,
   "the-ai-challenge": 2123,
   "tombstone-of-the-five": 1632,
-  "transaction-consistency-patterns-2pc-outbox": 1334,
+  "transaction-consistency-patterns-2pc-outbox": 1335,
   "unified-standards-code-management-in-team-development": 4980
 }
