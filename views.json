@@ -7,7 +7,7 @@
   "context-deadline-exceeded": 5067,
   "done-lately": 3617,
   "effectiveness": 1773,
-  "exception-tracking": 3138,
+  "exception-tracking": 3139,
   "feed-sub": 4343,
   "find-newsletter": 1903,
   "fnhon": 5049,
@@ -15,7 +15,7 @@
   "github-poster": 3556,
   "go-grace-stop": 6909,
   "go-signal": 5685,
-  "go-test": 3728,
+  "go-test": 3729,
   "golang-deadlock": 3756,
   "golang-eof": 4144,
   "google-static-cdn": 1843,
@@ -36,11 +36,11 @@
   "r2-rclone": 6801,
   "server-communication-methods": 6204,
   "smart-spending": 3243,
-  "soft-routes": 14490,
+  "soft-routes": 14491,
   "ssh-proxy-conn": 2304,
   "test-function": 1450,
   "the-ai-challenge": 2132,
   "tombstone-of-the-five": 1644,
   "transaction-consistency-patterns-2pc-outbox": 1353,
-  "unified-standards-code-management-in-team-development": 4998
+  "unified-standards-code-management-in-team-development": 4999
 }
