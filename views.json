@@ -16,7 +16,7 @@
   "go-grace-stop": 6910,
   "go-signal": 5686,
   "go-test": 3730,
-  "golang-deadlock": 3759,
+  "golang-deadlock": 3760,
   "golang-eof": 4147,
   "google-static-cdn": 1845,
   "gorm-mysql-error-handling-duplicate-key-translations": 4742,
