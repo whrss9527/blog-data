@@ -10,7 +10,7 @@
   "exception-tracking": 3144,
   "feed-sub": 4348,
   "find-newsletter": 1911,
-  "fnhon": 5061,
+  "fnhon": 5062,
   "github-action": 3189,
   "github-poster": 3561,
   "go-grace-stop": 6915,
@@ -20,7 +20,7 @@
   "golang-eof": 4156,
   "google-static-cdn": 1847,
   "gorm-mysql-error-handling-duplicate-key-translations": 4751,
-  "gorm-save-issue": 6150,
+  "gorm-save-issue": 6151,
   "gorm-trace-id": 5550,
   "hackintosh": 1947,
   "harmonyos-signing-key": 1987,
@@ -41,6 +41,6 @@
   "test-function": 1455,
   "the-ai-challenge": 2140,
   "tombstone-of-the-five": 1647,
-  "transaction-consistency-patterns-2pc-outbox": 1368,
+  "transaction-consistency-patterns-2pc-outbox": 1369,
   "unified-standards-code-management-in-team-development": 5012
 }
