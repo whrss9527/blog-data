@@ -7,7 +7,7 @@
   "context-deadline-exceeded": 5083,
   "done-lately": 3621,
   "effectiveness": 1777,
-  "exception-tracking": 3144,
+  "exception-tracking": 3145,
   "feed-sub": 4348,
   "find-newsletter": 1911,
   "fnhon": 5062,
@@ -41,6 +41,6 @@
   "test-function": 1455,
   "the-ai-challenge": 2140,
   "tombstone-of-the-five": 1647,
-  "transaction-consistency-patterns-2pc-outbox": 1369,
-  "unified-standards-code-management-in-team-development": 5012
+  "transaction-consistency-patterns-2pc-outbox": 1370,
+  "unified-standards-code-management-in-team-development": 5013
 }
