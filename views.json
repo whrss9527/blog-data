@@ -1,6 +1,6 @@
 {
   "2023-shopping-journey-value-and-regrets": 5373,
-  "api-design-openapi\u0026grpc": 5892,
+  "api-design-openapi\u0026grpc": 5893,
   "chat-message-store": 2009,
   "clash-auto-triage": 15291,
   "cloudflare-tunnel ": 6880,
@@ -21,7 +21,7 @@
   "google-static-cdn": 1861,
   "gorm-mysql-error-handling-duplicate-key-translations": 4773,
   "gorm-save-issue": 6169,
-  "gorm-trace-id": 5567,
+  "gorm-trace-id": 5568,
   "hackintosh": 1963,
   "harmonyos-signing-key": 2009,
   "lets-encrypt": 2057,
