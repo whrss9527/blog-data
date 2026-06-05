@@ -6,7 +6,7 @@
   "cloudflare-tunnel ": 6884,
   "context-deadline-exceeded": 5117,
   "done-lately": 3643,
-  "effectiveness": 1797,
+  "effectiveness": 1798,
   "exception-tracking": 3164,
   "feed-sub": 4369,
   "find-newsletter": 1933,
@@ -39,7 +39,7 @@
   "soft-routes": 14526,
   "ssh-proxy-conn": 2327,
   "test-function": 1472,
-  "the-ai-challenge": 2159,
+  "the-ai-challenge": 2160,
   "tombstone-of-the-five": 1666,
   "transaction-consistency-patterns-2pc-outbox": 1406,
   "unified-standards-code-management-in-team-development": 5039
