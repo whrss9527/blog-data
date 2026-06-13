@@ -16,7 +16,7 @@
   "go-grace-stop": 6955,
   "go-signal": 5728,
   "go-test": 3770,
-  "golang-deadlock": 3825,
+  "golang-deadlock": 3826,
   "golang-eof": 4212,
   "google-static-cdn": 1881,
   "gorm-mysql-error-handling-duplicate-key-translations": 4803,
@@ -35,12 +35,12 @@
   "planet-scale": 4766,
   "r2-rclone": 6846,
   "server-communication-methods": 6267,
-  "smart-spending": 3314,
+  "smart-spending": 3315,
   "soft-routes": 14548,
   "ssh-proxy-conn": 2340,
   "test-function": 1491,
   "the-ai-challenge": 2173,
   "tombstone-of-the-five": 1681,
-  "transaction-consistency-patterns-2pc-outbox": 1433,
+  "transaction-consistency-patterns-2pc-outbox": 1434,
   "unified-standards-code-management-in-team-development": 5063
 }
