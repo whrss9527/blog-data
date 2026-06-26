@@ -1,7 +1,7 @@
 {
   "2023-shopping-journey-value-and-regrets": 5437,
   "api-design-openapi\u0026grpc": 5960,
-  "chat-message-store": 2037,
+  "chat-message-store": 2039,
   "clash-auto-triage": 15458,
   "cloudflare-tunnel ": 6926,
   "context-deadline-exceeded": 5192,
@@ -9,7 +9,7 @@
   "effectiveness": 1825,
   "exception-tracking": 3195,
   "feed-sub": 4404,
-  "find-newsletter": 1965,
+  "find-newsletter": 1966,
   "fnhon": 5170,
   "github-action": 3251,
   "github-poster": 3612,
@@ -27,7 +27,7 @@
   "lets-encrypt": 2082,
   "me": 4001,
   "mysql-sharding-migration": 1764,
-  "newbing-vs-chatgpt": 2634,
+  "newbing-vs-chatgpt": 2635,
   "nginx-website": 1777,
   "open-source-projects": 1909,
   "pake": 3794,
@@ -39,8 +39,8 @@
   "soft-routes": 14566,
   "ssh-proxy-conn": 2351,
   "test-function": 1509,
-  "the-ai-challenge": 2186,
-  "tombstone-of-the-five": 1691,
+  "the-ai-challenge": 2187,
+  "tombstone-of-the-five": 1692,
   "transaction-consistency-patterns-2pc-outbox": 1473,
   "unified-standards-code-management-in-team-development": 5093
 }
