@@ -1,7 +1,7 @@
 {
   "2023-shopping-journey-value-and-regrets": 5439,
   "api-design-openapi\u0026grpc": 5962,
-  "chat-message-store": 2039,
+  "chat-message-store": 2040,
   "clash-auto-triage": 15465,
   "cloudflare-tunnel ": 6928,
   "context-deadline-exceeded": 5194,
@@ -12,7 +12,7 @@
   "find-newsletter": 1966,
   "fnhon": 5172,
   "github-action": 3254,
-  "github-poster": 3613,
+  "github-poster": 3614,
   "go-grace-stop": 6968,
   "go-signal": 5738,
   "go-test": 3786,
