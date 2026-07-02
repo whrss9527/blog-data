@@ -7,12 +7,12 @@
   "context-deadline-exceeded": 5210,
   "done-lately": 3684,
   "effectiveness": 1829,
-  "exception-tracking": 3202,
+  "exception-tracking": 3203,
   "feed-sub": 4407,
   "find-newsletter": 1969,
   "fnhon": 5187,
   "github-action": 3259,
-  "github-poster": 3617,
+  "github-poster": 3618,
   "go-grace-stop": 6971,
   "go-signal": 5742,
   "go-test": 3791,
@@ -41,6 +41,6 @@
   "test-function": 1526,
   "the-ai-challenge": 2190,
   "tombstone-of-the-five": 1695,
-  "transaction-consistency-patterns-2pc-outbox": 1488,
+  "transaction-consistency-patterns-2pc-outbox": 1489,
   "unified-standards-code-management-in-team-development": 5110
 }
