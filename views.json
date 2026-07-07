@@ -2,7 +2,7 @@
   "2023-shopping-journey-value-and-regrets": 5461,
   "api-design-openapi\u0026grpc": 5980,
   "chat-message-store": 2045,
-  "clash-auto-triage": 15554,
+  "clash-auto-triage": 15607,
   "cloudflare-tunnel ": 6957,
   "context-deadline-exceeded": 5218,
   "done-lately": 3691,
@@ -23,7 +23,7 @@
   "gorm-save-issue": 6214,
   "gorm-trace-id": 5615,
   "hackintosh": 1998,
-  "harmonyos-signing-key": 2114,
+  "harmonyos-signing-key": 2115,
   "lets-encrypt": 2088,
   "me": 4012,
   "mysql-sharding-migration": 1784,
@@ -41,6 +41,6 @@
   "test-function": 1539,
   "the-ai-challenge": 2192,
   "tombstone-of-the-five": 1699,
-  "transaction-consistency-patterns-2pc-outbox": 1496,
+  "transaction-consistency-patterns-2pc-outbox": 1497,
   "unified-standards-code-management-in-team-development": 5119
 }
