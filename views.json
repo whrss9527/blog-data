@@ -17,7 +17,7 @@
   "go-signal": 5757,
   "go-test": 3800,
   "golang-deadlock": 3901,
-  "golang-eof": 4307,
+  "golang-eof": 4308,
   "google-static-cdn": 1910,
   "gorm-mysql-error-handling-duplicate-key-translations": 4882,
   "gorm-save-issue": 6221,
