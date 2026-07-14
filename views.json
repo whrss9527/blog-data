@@ -23,10 +23,10 @@
   "gorm-save-issue": 6221,
   "gorm-trace-id": 5623,
   "hackintosh": 2007,
-  "harmonyos-signing-key": 2131,
+  "harmonyos-signing-key": 2132,
   "lets-encrypt": 2096,
   "me": 4024,
-  "mysql-sharding-migration": 1796,
+  "mysql-sharding-migration": 1797,
   "newbing-vs-chatgpt": 2653,
   "nginx-website": 1788,
   "open-source-projects": 1926,
@@ -40,7 +40,7 @@
   "ssh-proxy-conn": 2367,
   "test-function": 1553,
   "the-ai-challenge": 2201,
-  "tombstone-of-the-five": 1710,
-  "transaction-consistency-patterns-2pc-outbox": 1514,
+  "tombstone-of-the-five": 1711,
+  "transaction-consistency-patterns-2pc-outbox": 1515,
   "unified-standards-code-management-in-team-development": 5132
 }
