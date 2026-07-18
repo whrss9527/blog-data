@@ -16,7 +16,7 @@
   "go-grace-stop": 6986,
   "go-signal": 5760,
   "go-test": 3803,
-  "golang-deadlock": 3911,
+  "golang-deadlock": 3912,
   "golang-eof": 4320,
   "google-static-cdn": 1917,
   "gorm-mysql-error-handling-duplicate-key-translations": 4894,
@@ -26,7 +26,7 @@
   "harmonyos-signing-key": 2146,
   "lets-encrypt": 2099,
   "me": 4032,
-  "mysql-sharding-migration": 1808,
+  "mysql-sharding-migration": 1809,
   "newbing-vs-chatgpt": 2659,
   "nginx-website": 1792,
   "open-source-projects": 1928,
@@ -41,6 +41,6 @@
   "test-function": 1561,
   "the-ai-challenge": 2204,
   "tombstone-of-the-five": 1717,
-  "transaction-consistency-patterns-2pc-outbox": 1528,
+  "transaction-consistency-patterns-2pc-outbox": 1529,
   "unified-standards-code-management-in-team-development": 5144
 }
