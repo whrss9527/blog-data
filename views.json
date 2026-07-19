@@ -8,7 +8,7 @@
   "done-lately": 3708,
   "effectiveness": 1846,
   "exception-tracking": 3222,
-  "feed-sub": 4425,
+  "feed-sub": 4426,
   "find-newsletter": 1982,
   "fnhon": 5214,
   "github-action": 3285,
@@ -24,7 +24,7 @@
   "gorm-trace-id": 5629,
   "hackintosh": 2009,
   "harmonyos-signing-key": 2149,
-  "lets-encrypt": 2100,
+  "lets-encrypt": 2101,
   "me": 4032,
   "mysql-sharding-migration": 1810,
   "newbing-vs-chatgpt": 2660,
@@ -42,5 +42,5 @@
   "the-ai-challenge": 2205,
   "tombstone-of-the-five": 1717,
   "transaction-consistency-patterns-2pc-outbox": 1532,
-  "unified-standards-code-management-in-team-development": 5146
+  "unified-standards-code-management-in-team-development": 5147
 }
