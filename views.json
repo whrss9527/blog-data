@@ -1,6 +1,6 @@
 {
   "2023-shopping-journey-value-and-regrets": 5500,
-  "api-design-openapi\u0026grpc": 6014,
+  "api-design-openapi\u0026grpc": 6015,
   "chat-message-store": 2068,
   "clash-auto-triage": 16047,
   "cloudflare-tunnel ": 7008,
@@ -35,7 +35,7 @@
   "planet-scale": 4819,
   "r2-rclone": 6893,
   "server-communication-methods": 6369,
-  "smart-spending": 3408,
+  "smart-spending": 3409,
   "soft-routes": 14610,
   "ssh-proxy-conn": 2383,
   "test-function": 1586,
