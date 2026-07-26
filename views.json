@@ -28,7 +28,7 @@
   "me": 4040,
   "mysql-sharding-migration": 1829,
   "newbing-vs-chatgpt": 2668,
-  "nginx-website": 1801,
+  "nginx-website": 1802,
   "open-source-projects": 1936,
   "pake": 3828,
   "pic-archive": 6544,
@@ -36,11 +36,11 @@
   "r2-rclone": 6893,
   "server-communication-methods": 6371,
   "smart-spending": 3410,
-  "soft-routes": 14611,
+  "soft-routes": 14614,
   "ssh-proxy-conn": 2383,
   "test-function": 1586,
   "the-ai-challenge": 2213,
   "tombstone-of-the-five": 1723,
-  "transaction-consistency-patterns-2pc-outbox": 1553,
-  "unified-standards-code-management-in-team-development": 5171
+  "transaction-consistency-patterns-2pc-outbox": 1554,
+  "unified-standards-code-management-in-team-development": 5172
 }
