@@ -18,7 +18,7 @@
   "go-test": 3808,
   "golang-deadlock": 3932,
   "golang-eof": 4340,
-  "google-static-cdn": 1922,
+  "google-static-cdn": 1923,
   "gorm-mysql-error-handling-duplicate-key-translations": 4919,
   "gorm-save-issue": 6235,
   "gorm-trace-id": 5638,
