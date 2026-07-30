@@ -1,10 +1,10 @@
 {
-  "2023-shopping-journey-value-and-regrets": 5509,
+  "2023-shopping-journey-value-and-regrets": 5510,
   "api-design-openapi\u0026grpc": 6022,
   "chat-message-store": 2071,
   "clash-auto-triage": 16062,
   "cloudflare-tunnel ": 7018,
-  "context-deadline-exceeded": 5291,
+  "context-deadline-exceeded": 5292,
   "done-lately": 3721,
   "effectiveness": 1855,
   "exception-tracking": 3232,
@@ -39,8 +39,8 @@
   "soft-routes": 14619,
   "ssh-proxy-conn": 2385,
   "test-function": 1595,
-  "the-ai-challenge": 2216,
+  "the-ai-challenge": 2217,
   "tombstone-of-the-five": 1725,
-  "transaction-consistency-patterns-2pc-outbox": 1568,
+  "transaction-consistency-patterns-2pc-outbox": 1569,
   "unified-standards-code-management-in-team-development": 5183
 }
