@@ -4,7 +4,7 @@
   "chat-message-store": 2071,
   "clash-auto-triage": 16069,
   "cloudflare-tunnel ": 7019,
-  "context-deadline-exceeded": 5292,
+  "context-deadline-exceeded": 5293,
   "done-lately": 3721,
   "effectiveness": 1856,
   "exception-tracking": 3232,
@@ -28,7 +28,7 @@
   "me": 4041,
   "mysql-sharding-migration": 1836,
   "newbing-vs-chatgpt": 2672,
-  "nginx-website": 1807,
+  "nginx-website": 1808,
   "open-source-projects": 1939,
   "pake": 3836,
   "pic-archive": 6550,
@@ -41,6 +41,6 @@
   "test-function": 1597,
   "the-ai-challenge": 2218,
   "tombstone-of-the-five": 1726,
-  "transaction-consistency-patterns-2pc-outbox": 1569,
+  "transaction-consistency-patterns-2pc-outbox": 1571,
   "unified-standards-code-management-in-team-development": 5184
 }
