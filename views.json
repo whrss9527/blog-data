@@ -1,7 +1,7 @@
 {
   "2023-shopping-journey-value-and-regrets": 5512,
   "api-design-openapi\u0026grpc": 6025,
-  "chat-message-store": 2071,
+  "chat-message-store": 2072,
   "clash-auto-triage": 16070,
   "cloudflare-tunnel ": 7019,
   "context-deadline-exceeded": 5294,
@@ -18,7 +18,7 @@
   "go-test": 3811,
   "golang-deadlock": 3939,
   "golang-eof": 4348,
-  "google-static-cdn": 1924,
+  "google-static-cdn": 1925,
   "gorm-mysql-error-handling-duplicate-key-translations": 4926,
   "gorm-save-issue": 6242,
   "gorm-trace-id": 5646,
