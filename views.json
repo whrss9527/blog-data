@@ -31,8 +31,8 @@
   "nginx-website": 1812,
   "open-source-projects": 1942,
   "pake": 3844,
-  "pic-archive": 6554,
-  "planet-scale": 4827,
+  "pic-archive": 6555,
+  "planet-scale": 4828,
   "r2-rclone": 6900,
   "server-communication-methods": 6395,
   "smart-spending": 3422,
@@ -41,6 +41,6 @@
   "test-function": 1605,
   "the-ai-challenge": 2221,
   "tombstone-of-the-five": 1729,
-  "transaction-consistency-patterns-2pc-outbox": 1581,
+  "transaction-consistency-patterns-2pc-outbox": 1582,
   "unified-standards-code-management-in-team-development": 5194
 }
