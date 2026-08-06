@@ -6,7 +6,7 @@
   "cloudflare-tunnel ": 7034,
   "context-deadline-exceeded": 5307,
   "done-lately": 3727,
-  "effectiveness": 1865,
+  "effectiveness": 1866,
   "exception-tracking": 3241,
   "feed-sub": 4444,
   "find-newsletter": 1993,
@@ -38,9 +38,9 @@
   "smart-spending": 3424,
   "soft-routes": 14630,
   "ssh-proxy-conn": 2394,
-  "test-function": 1608,
-  "the-ai-challenge": 2223,
-  "tombstone-of-the-five": 1731,
+  "test-function": 1609,
+  "the-ai-challenge": 2224,
+  "tombstone-of-the-five": 1732,
   "transaction-consistency-patterns-2pc-outbox": 1586,
   "unified-standards-code-management-in-team-development": 5196
 }
