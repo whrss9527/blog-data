@@ -13,7 +13,7 @@
   "fnhon": 5252,
   "github-action": 3311,
   "github-poster": 3655,
-  "go-grace-stop": 7007,
+  "go-grace-stop": 7008,
   "go-signal": 5781,
   "go-test": 3818,
   "golang-deadlock": 3955,
@@ -23,8 +23,8 @@
   "gorm-save-issue": 6248,
   "gorm-trace-id": 5654,
   "hackintosh": 2022,
-  "harmonyos-signing-key": 2204,
-  "lets-encrypt": 2123,
+  "harmonyos-signing-key": 2205,
+  "lets-encrypt": 2124,
   "me": 4048,
   "mysql-sharding-migration": 1854,
   "newbing-vs-chatgpt": 2681,
@@ -42,5 +42,5 @@
   "the-ai-challenge": 2227,
   "tombstone-of-the-five": 1735,
   "transaction-consistency-patterns-2pc-outbox": 1593,
-  "unified-standards-code-management-in-team-development": 5207
+  "unified-standards-code-management-in-team-development": 5208
 }
