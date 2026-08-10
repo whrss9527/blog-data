@@ -3,7 +3,7 @@
   "api-design-openapi\u0026grpc": 6043,
   "chat-message-store": 2082,
   "clash-auto-triage": 16097,
-  "cloudflare-tunnel ": 7041,
+  "cloudflare-tunnel ": 7042,
   "context-deadline-exceeded": 5318,
   "done-lately": 3731,
   "effectiveness": 1868,
@@ -19,11 +19,11 @@
   "golang-deadlock": 3958,
   "golang-eof": 4368,
   "google-static-cdn": 1931,
-  "gorm-mysql-error-handling-duplicate-key-translations": 4942,
+  "gorm-mysql-error-handling-duplicate-key-translations": 4943,
   "gorm-save-issue": 6248,
   "gorm-trace-id": 5654,
   "hackintosh": 2023,
-  "harmonyos-signing-key": 2209,
+  "harmonyos-signing-key": 2210,
   "lets-encrypt": 2125,
   "me": 4048,
   "mysql-sharding-migration": 1856,
@@ -34,7 +34,7 @@
   "pic-archive": 6561,
   "planet-scale": 4834,
   "r2-rclone": 6903,
-  "server-communication-methods": 6409,
+  "server-communication-methods": 6410,
   "smart-spending": 3434,
   "soft-routes": 14633,
   "ssh-proxy-conn": 2395,
@@ -42,5 +42,5 @@
   "the-ai-challenge": 2229,
   "tombstone-of-the-five": 1735,
   "transaction-consistency-patterns-2pc-outbox": 1595,
-  "unified-standards-code-management-in-team-development": 5212
+  "unified-standards-code-management-in-team-development": 5213
 }
