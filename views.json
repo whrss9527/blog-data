@@ -19,11 +19,11 @@
   "golang-deadlock": 3975,
   "golang-eof": 4387,
   "google-static-cdn": 1939,
-  "gorm-mysql-error-handling-duplicate-key-translations": 4959,
+  "gorm-mysql-error-handling-duplicate-key-translations": 4960,
   "gorm-save-issue": 6262,
   "gorm-trace-id": 5663,
   "hackintosh": 2034,
-  "harmonyos-signing-key": 2252,
+  "harmonyos-signing-key": 2253,
   "lets-encrypt": 2138,
   "me": 4062,
   "mysql-sharding-migration": 1873,
@@ -42,5 +42,5 @@
   "the-ai-challenge": 2236,
   "tombstone-of-the-five": 1744,
   "transaction-consistency-patterns-2pc-outbox": 1612,
-  "unified-standards-code-management-in-team-development": 5257
+  "unified-standards-code-management-in-team-development": 5258
 }
