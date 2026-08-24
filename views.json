@@ -1,6 +1,6 @@
 {
-  "2023-shopping-journey-value-and-regrets": 5560,
-  "api-design-openapi\u0026grpc": 6081,
+  "2023-shopping-journey-value-and-regrets": 5561,
+  "api-design-openapi\u0026grpc": 6082,
   "chat-message-store": 2106,
   "clash-auto-triage": 16125,
   "cloudflare-tunnel ": 7062,
@@ -14,7 +14,7 @@
   "github-action": 3328,
   "github-poster": 3674,
   "go-grace-stop": 7028,
-  "go-signal": 5801,
+  "go-signal": 5803,
   "go-test": 3837,
   "golang-deadlock": 3984,
   "golang-eof": 4399,
