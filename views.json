@@ -14,7 +14,7 @@
   "github-action": 3336,
   "github-poster": 3682,
   "go-grace-stop": 7039,
-  "go-signal": 5811,
+  "go-signal": 5812,
   "go-test": 3846,
   "golang-deadlock": 4003,
   "golang-eof": 4422,
@@ -42,5 +42,5 @@
   "the-ai-challenge": 2250,
   "tombstone-of-the-five": 1760,
   "transaction-consistency-patterns-2pc-outbox": 1649,
-  "unified-standards-code-management-in-team-development": 5321
+  "unified-standards-code-management-in-team-development": 5322
 }
