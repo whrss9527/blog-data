@@ -26,7 +26,7 @@
   "harmonyos-signing-key": 2339,
   "lets-encrypt": 2157,
   "me": 4082,
-  "mysql-sharding-migration": 1932,
+  "mysql-sharding-migration": 1933,
   "newbing-vs-chatgpt": 2712,
   "nginx-website": 1847,
   "open-source-projects": 1975,
@@ -40,7 +40,7 @@
   "ssh-proxy-conn": 2417,
   "test-function": 1682,
   "the-ai-challenge": 2253,
-  "tombstone-of-the-five": 1765,
+  "tombstone-of-the-five": 1766,
   "transaction-consistency-patterns-2pc-outbox": 1674,
-  "unified-standards-code-management-in-team-development": 5338
+  "unified-standards-code-management-in-team-development": 5339
 }
