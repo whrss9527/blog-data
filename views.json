@@ -1,6 +1,6 @@
 {
   "2023-shopping-journey-value-and-regrets": 5594,
-  "api-design-openapi\u0026grpc": 6119,
+  "api-design-openapi\u0026grpc": 6120,
   "chat-message-store": 2121,
   "clash-auto-triage": 16180,
   "cloudflare-tunnel ": 7086,
@@ -13,17 +13,17 @@
   "fnhon": 5323,
   "github-action": 3339,
   "github-poster": 3688,
-  "go-grace-stop": 7044,
+  "go-grace-stop": 7045,
   "go-signal": 5816,
   "go-test": 3852,
-  "golang-deadlock": 4019,
+  "golang-deadlock": 4020,
   "golang-eof": 4450,
   "google-static-cdn": 1957,
   "gorm-mysql-error-handling-duplicate-key-translations": 4999,
   "gorm-save-issue": 6279,
   "gorm-trace-id": 5687,
   "hackintosh": 2056,
-  "harmonyos-signing-key": 2349,
+  "harmonyos-signing-key": 2350,
   "lets-encrypt": 2160,
   "me": 4082,
   "mysql-sharding-migration": 1940,
@@ -41,6 +41,6 @@
   "test-function": 1686,
   "the-ai-challenge": 2253,
   "tombstone-of-the-five": 1767,
-  "transaction-consistency-patterns-2pc-outbox": 1681,
-  "unified-standards-code-management-in-team-development": 5350
+  "transaction-consistency-patterns-2pc-outbox": 1682,
+  "unified-standards-code-management-in-team-development": 5351
 }
