@@ -6,7 +6,7 @@
   "cloudflare-tunnel ": 7087,
   "context-deadline-exceeded": 5406,
   "done-lately": 3771,
-  "effectiveness": 1901,
+  "effectiveness": 1902,
   "exception-tracking": 3275,
   "feed-sub": 4477,
   "find-newsletter": 2029,
@@ -23,7 +23,7 @@
   "gorm-save-issue": 6282,
   "gorm-trace-id": 5688,
   "hackintosh": 2059,
-  "harmonyos-signing-key": 2355,
+  "harmonyos-signing-key": 2356,
   "lets-encrypt": 2161,
   "me": 4085,
   "mysql-sharding-migration": 1943,
@@ -42,5 +42,5 @@
   "the-ai-challenge": 2256,
   "tombstone-of-the-five": 1768,
   "transaction-consistency-patterns-2pc-outbox": 1685,
-  "unified-standards-code-management-in-team-development": 5356
+  "unified-standards-code-management-in-team-development": 5358
 }
