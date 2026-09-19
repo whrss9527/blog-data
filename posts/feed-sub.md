@@ -5,7 +5,7 @@ created_at: 2023-06-26T20:25:21+08:00
 updated_at: 2026-04-30T14:45:31+08:00
 category_id: 4
 is_top: 0
-tag_ids: [71, 72]
+tag_ids: [71, 74]
 description: "先前，我的 RSS 订阅功能过于简化，只提供了几个基本字段，而且不展示全文。我决定对订阅功能做一次全面的改进。"
 word_count: 1958
 ---
