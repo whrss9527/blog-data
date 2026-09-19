@@ -2,7 +2,7 @@
 title: "使用GitHub Action 同步运动数据并生成热力图"
 status: 1
 created_at: 2023-06-04T21:14:48+08:00
-updated_at: 2026-04-30T14:18:04+08:00
+updated_at: 2023-06-04T21:14:48+08:00
 category_id: 4
 is_top: 0
 tag_ids: [63, 64]

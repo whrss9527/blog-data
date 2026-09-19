@@ -2,7 +2,7 @@
 title: "如何在 Go 中实现程序的优雅退出，go-kratos 源码解析"
 status: 1
 created_at: 2023-07-29T05:58:45+08:00
-updated_at: 2026-04-30T14:47:03+08:00
+updated_at: 2023-07-29T05:58:45+08:00
 category_id: 1
 is_top: 0
 tag_ids: [61, 78, 79]

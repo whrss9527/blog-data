@@ -2,7 +2,7 @@
 title: "从零开始搭建家庭软路由系统（安装OpenWrt，并做为旁路由接入家庭网络）"
 status: 1
 created_at: 2023-03-21T14:09:57+08:00
-updated_at: 2026-04-30T14:18:09+08:00
+updated_at: 2023-03-21T14:09:57+08:00
 category_id: 4
 is_top: 0
 tag_ids: [49, 50, 48]

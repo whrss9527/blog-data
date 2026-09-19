@@ -2,7 +2,7 @@
 title: "一个游戏开发者的自我介绍"
 status: 1
 created_at: 2023-06-08T22:22:30+08:00
-updated_at: 2026-04-30T14:47:03+08:00
+updated_at: 2023-06-08T22:22:30+08:00
 category_id: 3
 is_top: 0
 tag_ids: [65]

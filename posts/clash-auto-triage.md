@@ -2,7 +2,7 @@
 title: "Clash 设置国内国外自动分流访问"
 status: 1
 created_at: 2023-03-10T17:15:55+08:00
-updated_at: 2026-04-30T14:45:27+08:00
+updated_at: 2023-03-10T17:15:55+08:00
 category_id: 4
 is_top: 0
 tag_ids: [46, 47, 48]

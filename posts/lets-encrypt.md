@@ -2,7 +2,7 @@
 title: "最新版 Let’s Encrypt 免费证书申请步骤，保姆级教程"
 status: 1
 created_at: 2022-12-02T19:17:50+08:00
-updated_at: 2026-04-30T14:45:27+08:00
+updated_at: 2022-12-02T19:17:50+08:00
 category_id: 1
 is_top: 0
 tag_ids: [29]

@@ -2,7 +2,7 @@
 title: "更换博客图床，从 OSS 到 GitHub 再到 R2"
 status: 1
 created_at: 2023-08-02T09:09:40+08:00
-updated_at: 2026-04-30T14:18:03+08:00
+updated_at: 2023-08-02T09:09:40+08:00
 category_id: 4
 is_top: 0
 tag_ids: [74, 80]

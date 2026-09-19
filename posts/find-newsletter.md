@@ -2,7 +2,7 @@
 title: "发现优质 Newsletter 和 Blog"
 status: 1
 created_at: 2023-02-05T19:47:18+08:00
-updated_at: 2026-04-30T14:18:10+08:00
+updated_at: 2023-02-05T19:47:18+08:00
 category_id: 3
 is_top: 0
 tag_ids: [33]

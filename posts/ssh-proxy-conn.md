@@ -2,7 +2,7 @@
 title: "将本地服务通过 SSH 代理给外部访问"
 status: 1
 created_at: 2023-03-09T16:08:49+08:00
-updated_at: 2026-04-30T14:45:27+08:00
+updated_at: 2023-03-09T16:08:49+08:00
 category_id: 1
 is_top: 0
 tag_ids: [43, 44, 45]

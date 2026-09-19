@@ -2,7 +2,7 @@
 title: "gorm 中 MySQL 错误码映射与主键冲突错误处理"
 status: 1
 created_at: 2024-03-27T11:43:05+08:00
-updated_at: 2026-04-30T15:03:32+08:00
+updated_at: 2024-03-27T11:43:05+08:00
 category_id: 1
 is_top: 0
 tag_ids: [61, 62]

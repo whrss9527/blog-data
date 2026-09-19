@@ -2,7 +2,7 @@
 title: "Golang 中的 EOF 与 read: connection reset by peer 错误深度剖析"
 status: 1
 created_at: 2024-08-07T08:30:33+08:00
-updated_at: 2026-04-30T14:43:32+08:00
+updated_at: 2024-08-07T08:30:33+08:00
 category_id: 1
 is_top: 0
 tag_ids: [102]

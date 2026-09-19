@@ -2,7 +2,7 @@
 title: "我的自行车"
 status: 1
 created_at: 2023-10-20T10:40:33+08:00
-updated_at: 2026-04-30T15:03:32+08:00
+updated_at: 2023-10-20T10:40:33+08:00
 category_id: 3
 is_top: 0
 tag_ids: [85, 86, 87]

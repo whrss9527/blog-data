@@ -2,7 +2,7 @@
 title: "一致性事务：从 2PC 到 Outbox pattern"
 status: 1
 created_at: 2025-11-28T23:08:22+08:00
-updated_at: 2026-04-30T15:03:31+08:00
+updated_at: 2025-11-28T23:08:22+08:00
 category_id: 1
 is_top: 0
 tag_ids: null

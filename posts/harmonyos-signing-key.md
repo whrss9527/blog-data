@@ -2,7 +2,7 @@
 title: "鸿蒙 OS 的签名密钥机制，我终于整明白了！"
 status: 1
 created_at: 2025-07-20T12:47:36+08:00
-updated_at: 2026-04-30T14:45:19+08:00
+updated_at: 2025-07-20T12:47:36+08:00
 category_id: 1
 is_top: 0
 tag_ids: [106, 107, 108]

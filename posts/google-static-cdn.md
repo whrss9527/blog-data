@@ -2,7 +2,7 @@
 title: "在 Google 设置静态页面 CDN 加速"
 status: 1
 created_at: 2023-02-15T16:52:35+08:00
-updated_at: 2026-04-30T14:18:09+08:00
+updated_at: 2023-02-15T16:52:35+08:00
 category_id: 1
 is_top: 0
 tag_ids: [34, 29, 35]

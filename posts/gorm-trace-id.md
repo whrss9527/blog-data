@@ -2,7 +2,7 @@
 title: "GORM 中 SQL、慢 SQL 打印日志传递 trace ID"
 status: 1
 created_at: 2023-09-25T11:14:27+08:00
-updated_at: 2026-04-30T14:45:27+08:00
+updated_at: 2023-09-25T11:14:27+08:00
 category_id: 1
 is_top: 0
 tag_ids: [61, 62, 81, 78]

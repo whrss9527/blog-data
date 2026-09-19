@@ -2,7 +2,7 @@
 title: "死锁日记：手写 GoLang 上报队列"
 status: 1
 created_at: 2024-05-16T09:16:45+08:00
-updated_at: 2026-04-30T15:03:32+08:00
+updated_at: 2024-05-16T09:16:45+08:00
 category_id: 1
 is_top: 0
 tag_ids: [102, 103]

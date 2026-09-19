@@ -2,7 +2,7 @@
 title: "探索 PlanetScale：划分分支的 MySQL Serverless 平台"
 status: 1
 created_at: 2023-07-12T03:37:52+08:00
-updated_at: 2026-04-30T14:18:03+08:00
+updated_at: 2023-07-12T03:37:52+08:00
 category_id: 2
 is_top: 0
 tag_ids: [73, 74, 75, 36]

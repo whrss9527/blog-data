@@ -2,7 +2,7 @@
 title: "最近在做的事：GitHub Action | GPT Plus | whisper | V2EX | GPT API | PMP"
 status: 1
 created_at: 2023-06-25T15:49:29+08:00
-updated_at: 2026-04-30T14:18:12+08:00
+updated_at: 2023-06-25T15:49:29+08:00
 category_id: 3
 is_top: 0
 tag_ids: [63, 66, 67, 68, 69, 70]

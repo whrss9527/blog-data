@@ -2,7 +2,7 @@
 title: "探索服务端通信技术：短轮询、WebSocket、SSE 与长轮询的深度比较"
 status: 1
 created_at: 2023-11-19T13:51:46+08:00
-updated_at: 2026-04-30T15:03:32+08:00
+updated_at: 2023-11-19T13:51:46+08:00
 category_id: 1
 is_top: 0
 tag_ids: [94, 95, 96, 97, 98, 99]

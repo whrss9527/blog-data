@@ -2,7 +2,7 @@
 title: "GitHub Action 自动化部署简单尝试"
 status: 1
 created_at: 2023-03-31T18:38:20+08:00
-updated_at: 2026-04-30T14:45:27+08:00
+updated_at: 2023-03-31T18:38:20+08:00
 category_id: 1
 is_top: 0
 tag_ids: [51, 52, 53]

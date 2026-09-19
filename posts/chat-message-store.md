@@ -2,7 +2,7 @@
 title: "聊天记录存储实践"
 status: 1
 created_at: 2023-02-27T13:53:20+08:00
-updated_at: 2026-04-30T14:45:27+08:00
+updated_at: 2023-02-27T13:53:20+08:00
 category_id: 1
 is_top: 0
 tag_ids: [36]

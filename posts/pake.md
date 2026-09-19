@@ -2,7 +2,7 @@
 title: "一个有趣且实用的开源项目，将网页打包成应用"
 status: 1
 created_at: 2023-04-04T16:19:46+08:00
-updated_at: 2026-04-30T14:18:04+08:00
+updated_at: 2023-04-04T16:19:46+08:00
 category_id: 2
 is_top: 0
 tag_ids: [54, 55]

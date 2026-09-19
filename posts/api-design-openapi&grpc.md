@@ -2,7 +2,7 @@
 title: "API 设计中的多类型属性选择：OpenAPI 与 gRPC 的 oneof 与强类型对比"
 status: 1
 created_at: 2023-11-03T10:30:52+08:00
-updated_at: 2026-04-30T15:03:32+08:00
+updated_at: 2023-11-03T10:30:52+08:00
 category_id: 1
 is_top: 0
 tag_ids: [92, 93]

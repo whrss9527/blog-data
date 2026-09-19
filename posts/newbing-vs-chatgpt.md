@@ -2,7 +2,7 @@
 title: "体验 New Bing：一个比 ChatGPT 更强大、更幽默、更有用的搜索引擎聊天机器人"
 status: 1
 created_at: 2023-03-02T15:43:16+08:00
-updated_at: 2026-04-30T14:18:05+08:00
+updated_at: 2023-03-02T15:43:16+08:00
 category_id: 2
 is_top: 0
 tag_ids: [39, 40, 41, 42]

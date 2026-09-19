@@ -2,7 +2,7 @@
 title: "2023 年购物回忆录：值不值得买"
 status: 1
 created_at: 2024-01-14T03:24:59+08:00
-updated_at: 2026-04-30T15:03:32+08:00
+updated_at: 2024-01-14T03:24:59+08:00
 category_id: 3
 is_top: 0
 tag_ids: [100]
