@@ -16,7 +16,7 @@
   "go-grace-stop": 7076,
   "go-signal": 5844,
   "go-test": 3870,
-  "goblog-refactor": 26,
+  "goblog-refactor": 27,
   "golang-deadlock": 4074,
   "golang-eof": 4508,
   "google-static-cdn": 1973,
@@ -42,6 +42,6 @@
   "test-function": 1749,
   "the-ai-challenge": 2285,
   "tombstone-of-the-five": 1785,
-  "transaction-consistency-patterns-2pc-outbox": 1749,
+  "transaction-consistency-patterns-2pc-outbox": 1750,
   "unified-standards-code-management-in-team-development": 5433
 }
