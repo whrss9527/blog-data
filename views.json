@@ -24,7 +24,7 @@
   "gorm-save-issue": 6313,
   "gorm-trace-id": 5731,
   "hackintosh": 2083,
-  "harmonyos-signing-key": 2461,
+  "harmonyos-signing-key": 2462,
   "lets-encrypt": 2199,
   "me": 4129,
   "mysql-sharding-migration": 2011,
@@ -43,5 +43,5 @@
   "the-ai-challenge": 2298,
   "tombstone-of-the-five": 1795,
   "transaction-consistency-patterns-2pc-outbox": 1766,
-  "unified-standards-code-management-in-team-development": 5450
+  "unified-standards-code-management-in-team-development": 5451
 }
