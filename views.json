@@ -13,7 +13,7 @@
   "fnhon": 5396,
   "github-action": 3376,
   "github-poster": 3720,
-  "go-grace-stop": 7094,
+  "go-grace-stop": 7095,
   "go-signal": 5861,
   "go-test": 3882,
   "goblog-refactor": 80,
@@ -37,11 +37,11 @@
   "r2-rclone": 6995,
   "server-communication-methods": 6541,
   "smart-spending": 3588,
-  "soft-routes": 14714,
+  "soft-routes": 14716,
   "ssh-proxy-conn": 2456,
   "test-function": 1764,
   "the-ai-challenge": 2301,
   "tombstone-of-the-five": 1797,
   "transaction-consistency-patterns-2pc-outbox": 1769,
-  "unified-standards-code-management-in-team-development": 5455
+  "unified-standards-code-management-in-team-development": 5456
 }
