@@ -1,5 +1,5 @@
 {
-  "2023-shopping-journey-value-and-regrets": 5678,
+  "2023-shopping-journey-value-and-regrets": 5679,
   "api-design-openapi\u0026grpc": 6200,
   "chat-message-store": 2179,
   "clash-auto-triage": 16330,
@@ -42,6 +42,6 @@
   "test-function": 1779,
   "the-ai-challenge": 2312,
   "tombstone-of-the-five": 1806,
-  "transaction-consistency-patterns-2pc-outbox": 1794,
+  "transaction-consistency-patterns-2pc-outbox": 1796,
   "unified-standards-code-management-in-team-development": 5489
 }
