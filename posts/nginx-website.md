@@ -16,9 +16,9 @@ word_count: 492
 之前使用nginx时，并没有这个问题，于是我猜测是不是nginx新的版本对配置参数进行了修改？
 但我翻看了nginx的文档，却没有找到。于是我跟着症状开始在网上翻文，终于：
 
-## 解决方法
+## 解决方法
 
-若不对于css文件解析进行配置，nginx默认文件都是[`text/plain`](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Configuring_server_MIME_types)类型进行解析，为此我们需要对此进行简单配置。将下面这段代码放入到`location`模块下面，然后重启nginx。**记住一定要清理浏览器的缓存**。
+若不对于css文件解析进行配置，nginx默认文件都是[`text/plain`](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Configuring_server_MIME_types)类型进行解析，为此我们需要对此进行简单配置。将下面这段代码放入到`location`模块下面，然后重启nginx。**记住一定要清理浏览器的缓存**。
 
 ```sh
 include mime.types;  
