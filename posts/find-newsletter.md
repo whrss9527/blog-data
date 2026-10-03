@@ -24,7 +24,7 @@ word_count: 1245
 | [producthunt](https://www.producthunt.com/)                                                   | 每天发现有趣的新产品 (国外产品) |
 | [找到 AI](https://zhaodao.ai/)                                                                | 找到你喜爱的作品                |
 | [52 破解](https://www.52pojie.cn/forum-2-1.html)                                              | 找到你想要的软件                |
-|  [发现优质 Newsletter]([https://alleyread.com/](https://alleyread.com/))|   授人予鱼 不如授人予渔， 这是一个newsletter的推荐网站 |                              |
+|  [发现优质 Newsletter](https://alleyread.com/)|   授人予鱼 不如授人予渔， 这是一个newsletter的推荐网站 |                              |
 
 
 ---
